@@ -1,4 +1,5 @@
 #include "Connect.h"
+#include "Tools.h"
 #include<iostream>
 using namespace std;
 

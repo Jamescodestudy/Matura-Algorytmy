@@ -147,6 +147,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="NWD i NWW.cpp" />
+    <ClCompile Include="Tools.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Connect.h" />
