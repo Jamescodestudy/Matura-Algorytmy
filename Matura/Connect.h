@@ -6,3 +6,6 @@ LL NWD_req(LL a, LL b);
 LL NWD2(LL a, LL b);
 LL NWD2_req(LL a, LL b);
 LL NWW(LL a, LL b);
+
+void Factorial(LL number, VLL& data);
+bool ifPrime(LL number);
