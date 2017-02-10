@@ -9,3 +9,6 @@ LL NWW(LL a, LL b);
 
 void Factorial(LL number, VLL& data);
 bool ifPrime(LL number);
+void FibVector(vector<LL>& fib, int howMany);
+void PirintVectorFib(vector<LL>& fib);
+LL givenFib(int whichOne);
