@@ -147,6 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Fibonacci.cpp" />
+    <ClCompile Include="MinMax.cpp" />
     <ClCompile Include="Primes.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="NWD i NWW.cpp" />

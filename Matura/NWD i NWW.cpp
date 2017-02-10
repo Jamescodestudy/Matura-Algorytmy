@@ -31,7 +31,7 @@ LL NWD2(LL a, LL b)
 
 LL NWD2_req(LL a, LL b)
 {
-	if (b == 0) return 0;
+	if (b == 0) return a;
 	else return NWD2_req(b, a%b);
 }
 

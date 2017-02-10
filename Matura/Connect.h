@@ -12,3 +12,5 @@ bool ifPrime(LL number);
 void FibVector(vector<LL>& fib, int howMany);
 void PirintVectorFib(vector<LL>& fib);
 LL givenFib(int whichOne);
+LL Min(vector<LL>& data);
+LL Max(vector<LL>& data);
