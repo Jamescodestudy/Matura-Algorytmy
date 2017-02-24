@@ -13,7 +13,7 @@ void PirintVectorFib(vector<LL>& fib);
 LL givenFib(int whichOne);
 LL Min(vector<LL>& data);
 LL Max(vector<LL>& data);
-
+bool ifPalindrom(string word);
 void printVector(vector<int>& data);
 void b_sort(vector<int>& data);
 void q_sort(vector<int>& data, int left, int right);
