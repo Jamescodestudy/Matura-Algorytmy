@@ -5,8 +5,7 @@ using namespace std;
 
 int main()
 {
-	if (ifAnagram("ASDF","AFSS")) cout << "Tak";
-	else cout << "Nie";
+	cout << cezar("ABC",-1);
 	getchar(); getchar();
 	return 0;
 }

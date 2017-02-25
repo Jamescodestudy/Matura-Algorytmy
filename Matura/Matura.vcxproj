@@ -147,6 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Anagram.cpp" />
+    <ClCompile Include="Cezar.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="MinMax.cpp" />
     <ClCompile Include="Palindrom.cpp" />
