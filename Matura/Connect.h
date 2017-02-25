@@ -20,3 +20,4 @@ void b_sort(vector<int>& data);
 void q_sort(vector<int>& data, int left, int right);
 float horner(int stopien, vector<float> wsp, float x);
 string cezar(string word, int k);
+bool ifCezar(string wordBase, string wordEncrypted, int k);

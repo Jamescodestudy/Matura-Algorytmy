@@ -26,3 +26,13 @@ string cezar(string word, int k)
 	}
 	return word;
 }
+
+bool ifCezar(string wordBase, string wordEncrypted, int k)
+{
+	while (k > 26)
+	{
+		k = k % 26;
+	}
+	if (cezar(wordBase, k) == wordEncrypted) return true;
+	else return false;
+}
