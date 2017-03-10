@@ -156,6 +156,7 @@
     <ClCompile Include="NWD i NWW.cpp" />
     <ClCompile Include="SchematHornera.cpp" />
     <ClCompile Include="Sorting.cpp" />
+    <ClCompile Include="StablinaDelta.cpp" />
     <ClCompile Include="Tools.h" />
   </ItemGroup>
   <ItemGroup>

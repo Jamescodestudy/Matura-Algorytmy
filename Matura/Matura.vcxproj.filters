@@ -48,6 +48,9 @@
     <ClCompile Include="Cezar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StablinaDelta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Connect.h">
